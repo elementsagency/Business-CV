@@ -1078,12 +1078,13 @@ form div:last-child{
 }
 .dev-link{
 	font-size: 14px;
-	color: #fff;
+	color: black;
 	text-align: center;
 	margin-top: 20px;
+	line-height: 150%;
 }
 .dev-link a{
-	color: #fff;
+	color: black;
 	text-decoration: underline;
 }
 .footer__item {
