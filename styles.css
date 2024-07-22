@@ -917,8 +917,8 @@ form input:focus{
 #message{
     min-height: 150px;
     max-height: 150px;
-    min-width: 330px;
-    max-width: 330px;
+    min-width: 290px;
+    max-width: 290px;
     padding: 10px;
     background-color: transparent;
     border: 1px solid #1b1b1c;
