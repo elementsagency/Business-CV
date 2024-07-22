@@ -918,7 +918,7 @@ form input:focus{
     min-height: 150px;
     max-height: 150px;
     min-width: 290px;
-    max-width: auto;
+    max-width: 100%;
     padding: 10px;
     background-color: transparent;
     border: 1px solid #1b1b1c;
