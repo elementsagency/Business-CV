@@ -1062,12 +1062,8 @@ form div:last-child{
         margin: auto 0px;
     }
 }
-.footer__text p{
-    font-size: 16px;
-}
 @media (min-width: 768px){
 	.footer__text p{
-        font-size: 14px;
         text-align: center;
     }
 }
